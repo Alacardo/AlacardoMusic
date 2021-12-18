@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "",
+    "repository": "https://github.com/Alacardo/AlacardoMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
