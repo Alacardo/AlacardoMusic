@@ -21,7 +21,7 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Mentos-Music-11-27")
+                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Legends-Music-bot-12-18")
             ],
             [ 
                 InlineKeyboardButton(text="📨Official Channel", url="https://t.me/truewildthoughts"),
@@ -35,7 +35,7 @@ pstart_markup=InlineKeyboardMarkup(
                 [
                     InlineKeyboardButton("💞 Sᴜᴍᴍᴏɴ Mᴇ 💞", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Chutuya-11-27")],
+                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Legends-Music-bot-12-18")],
                 [
                     InlineKeyboardButton(
                         "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/truewildthoughts"), 
