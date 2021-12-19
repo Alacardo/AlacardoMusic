@@ -42,7 +42,7 @@ pstart_markup=InlineKeyboardMarkup(
                     InlineKeyboardButton(
                         "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/International_chatting_Legends")
                 ],
-                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://t.me/https://telegra.ph/file/46da9002bda11706f7b22.png"),]
+                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://telegra.ph/file/46da9002bda11706f7b22.png"),]
 
             ]
         )
